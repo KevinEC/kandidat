@@ -7,6 +7,7 @@ vc2013/.vs/
 
 # exclude user proj settings file
 *.vcxproj.user
+*.vcxproj
 
 #exclude cider lib
 cinder_0.9.1_vc2013/
